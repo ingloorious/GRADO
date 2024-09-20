@@ -1,7 +1,0 @@
-git status // enlistar los archivos no incluidos
-
-git add . // registrar los todos los archivos no incluidos
-
-git commit -m  "comentario"
-
-git push origin main // registrar los cambios en el repositorio main
